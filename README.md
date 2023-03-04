@@ -12,3 +12,5 @@
 
 <p>Para testar as questões aqui presentes é só acessar o site oficial : <a href="https://www.beecrowd.com.br/judge/pt/">https://www.beecrowd.com.br/judge/pt/</a>.<br>
 Realizar o seu cadastro na plataforma e na aba de problemas procurar o problema baseado no número presente no arquivo contendo a resolução</p>
+
+<a href="https://www.beecrowd.com.br/judge/pt/profile/301920">Meu perfil na plataforma</a>
