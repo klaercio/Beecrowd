@@ -7,6 +7,7 @@
 <ul>
   <li>DFS = depth-first search</li>
   <li>BFS = breadth-first search</li>
+  <li>FlooFill</li>
   <li>Mochila fracionária</li>
 </ul>
 
