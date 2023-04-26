@@ -7,8 +7,11 @@
 <ul>
   <li>DFS = depth-first search</li>
   <li>BFS = breadth-first search</li>
-  <li>FlooFill</li>
+  <li>FloodFill</li>
   <li>Mochila fracionária</li>
+  <li>MergeSort</i>
+  <li>Sort</li>
+  <li>Bubble sort</li>
 </ul>
 
 <p>Para testar as questões aqui presentes é só acessar o site oficial : <a href="https://www.beecrowd.com.br/judge/pt/">https://www.beecrowd.com.br/judge/pt/</a>.<br>
